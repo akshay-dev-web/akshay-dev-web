@@ -11,14 +11,10 @@
 * Database: SQL 
 * Tools: Git and GitHub
 
-## Projects
-
-* Add your first coding project here
-* Add your college projects here
 
 ## Connect with Me
 
-* LinkedIn: Add your LinkedIn profile URL
+* LinkedIn:(https://www.linkedin.com/in/akshay-m-9517a2405)
 
 I'm learning step by step and building projects to improve my development skills.
 
