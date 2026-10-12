@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Akshay 👋
 
-<!--
-**akshay-dev-web/akshay-dev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
+💻 Aspiring Backend Developer
+🌱 Currently learning programming and software development
+🛠️ Interested in building projects and solving coding problems
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming:python,sql,html,c,java
+* Database: SQL 
+* Tools: Git and GitHub
+
+## Projects
+
+* Add your first coding project here
+* Add your college projects here
+
+## Connect with Me
+
+* LinkedIn: Add your LinkedIn profile URL
+
+I'm learning step by step and building projects to improve my development skills.
+
